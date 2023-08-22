@@ -1,6 +1,6 @@
 # USDO: Fostering Cryptocurrency Stability
 
-![USDO Logo](/logo.png)
+![USDO Logo](/logodark.png)
 
 Welcome to the USDO repository, where stability meets innovation in the world of cryptocurrency. USDO is a pioneering digital stable currency deeply integrated into the secure Ozone Chain network, providing steadfast value and innovative possibilities.
 
