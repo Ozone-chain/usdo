@@ -34,7 +34,8 @@ At USDO, we introduce you to a revolutionary digital asset that combines the bes
 
 ## Contract Address
 
-The contract address of USDO is: [Contract Address Here]
+The contract address of USDO is: 0x30633ab8d5d058f92563015cb12193f371de158f
+Explore the contract on OzoneScan: [https://ozonescan.io/address/0x30633Ab8D5d058f92563015Cb12193F371de158f](https://ozonescan.io/address/0x30633Ab8D5d058f92563015Cb12193F371de158f)
 
 ## Audit Report
 
